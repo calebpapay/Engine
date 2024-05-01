@@ -1,0 +1,35 @@
+
+//2024. Caleb Papay
+
+
+#ifndef SHADER_OBJECT_COLOR_BY_VERTEX_H
+#define SHADER_OBJECT_COLOR_BY_VERTEX_H
+
+#include "ShaderObject.h"
+
+namespace Azul
+{
+	class ShaderObject_ColorByVertex : public ShaderObject
+	{
+	public:
+
+	public:
+		ShaderObject_ColorByVertex() = delete;
+		ShaderObject_ColorByVertex(const ShaderObject_ColorByVertex &) = delete;
+		ShaderObject_ColorByVertex &operator = (const ShaderObject_ColorByVertex &) = delete;
+		virtual ~ShaderObject_ColorByVertex();
+
+		ShaderObject_ColorByVertex(ShaderObject_ColorByVertex::Name _name);
+
+
+		// ---------------------------------------------
+		// 	   Data:
+		// ---------------------------------------------
+
+
+	};
+}
+
+#endif
+
+// --- End of File ---

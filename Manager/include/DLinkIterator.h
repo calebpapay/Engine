@@ -1,0 +1,35 @@
+//2024. Caleb Papay
+
+
+#ifndef	DLINK_ITERATOR_H
+#define	DLINK_ITERATOR_H
+
+#include "Iterator.h"
+
+namespace Azul
+{
+	class DLinkIterator : public Iterator
+	{
+	public:
+		DLinkIterator();
+
+		virtual DLink *Next() override;
+		virtual bool IsDone() override;
+		virtual DLink *First() override;
+		virtual DLink *Curr() override;
+
+		void Reset(DLink *pHead);
+
+	private:
+		void privClear();
+
+	public:
+		DLink *pHead;
+		DLink *pCurr;
+		bool bDone;
+	};
+}
+
+#endif
+
+// --- End of File ---

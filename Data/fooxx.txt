@@ -1,0 +1,32 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A0DC-8D72
+
+ Directory of C:\Users\Caleb\Documents\cpapay_Winter2024\keenan2024winter_gam576\student\cpapay\MS1\Data
+
+01/28/2024  05:49 PM    <DIR>          .
+01/28/2024  05:49 PM    <DIR>          ..
+11/20/2023  06:52 PM         3,578,358 ChickenbotDiffuse.png
+01/28/2024  05:49 PM        16,777,502 ChickenbotDiffuse.t.proto.azul
+01/28/2024  05:49 PM             1,583 CubeMesh.m.proto.azul
+11/24/2023  03:03 PM         3,778,304 die_left_mesh.glb
+01/28/2024  05:49 PM           262,427 Duckweed.t.proto.azul
+11/20/2023  06:52 PM           196,626 Duckweed.tga
+01/28/2024  05:49 PM                 0 fooxx.txt
+11/24/2023  03:03 PM         3,777,396 idle_mesh.glb
+01/28/2024  05:49 PM             1,199 PyramidMesh.m.proto.azul
+01/28/2024  05:49 PM           262,427 RedBrick.t.proto.azul
+11/20/2023  06:52 PM           196,626 RedBrick.tga
+01/28/2024  05:49 PM           262,427 Rocks.t.proto.azul
+11/20/2023  06:52 PM           196,626 Rocks.tga
+11/24/2023  03:03 PM         3,777,336 run_mesh.glb
+11/24/2023  03:03 PM         3,775,356 shot_up_mesh.glb
+11/24/2023  03:03 PM         3,777,052 sidestep_right_mesh.glb
+01/28/2024  05:49 PM             6,561 SphereMesh.m.proto.azul
+01/28/2024  05:49 PM           492,283 stitch.t.proto.azul
+01/16/2024  05:01 PM           492,044 stitch.tga
+01/28/2024  05:49 PM           262,427 Stone.t.proto.azul
+11/20/2023  06:52 PM           196,652 Stone.tga
+11/20/2023  06:52 PM         3,779,808 walk_mesh.glb
+01/27/2024  04:32 PM                 0 __Converted Assets__.txt
+              23 File(s)     45,851,020 bytes
+               2 Dir(s)  37,451,804,672 bytes free

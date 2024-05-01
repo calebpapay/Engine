@@ -1,0 +1,13 @@
+//2024. Caleb Papay
+
+syntax = "proto3";
+
+import "skelEntry.proto";
+
+option optimize_for = LITE_RUNTIME;
+
+message skelData_proto
+{
+	optional uint32             numBones = 1;
+	repeated skelEntry_proto poSkelEntry = 2;
+}

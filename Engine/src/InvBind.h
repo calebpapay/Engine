@@ -1,0 +1,46 @@
+//2024. Caleb Papay
+
+
+#ifndef INV_BIND_H
+#define INV_BIND_H
+
+#include "DLink.h"
+#include "MathEngine.h"
+
+namespace Azul
+{
+	class InvBind : public DLink
+	{
+	public:
+		enum Name
+		{
+			ChickenBot,
+			Rat,
+			Guy,
+			Not_Initialized
+		};
+
+	public:
+		// public methods: -------------------------------------------------------------
+		InvBind();
+		InvBind(const InvBind &) = delete;
+		InvBind &operator = (const InvBind &) = delete;
+		virtual ~InvBind();
+
+		virtual bool Compare(DLink *pTarget) override;
+		virtual void Dump() override;
+		virtual void Wash() override;
+
+		void Set(InvBind::Name _name, unsigned int _numMat, Mat4 *_poInvBindArray);
+
+	public:
+		Name          mName;
+		unsigned int  numMat;
+		Mat4          *poInvBindArray;
+
+	};
+}
+
+#endif
+
+//--- End of File ---
