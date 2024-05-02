@@ -1,6 +1,3 @@
---------------
-//2024. Caleb Papay
---------------
 //
 // Thread Framework - for Keenan's C++ classes
 //
