@@ -1,4 +1,4 @@
-//
+
 // Thread Framework - for Keenan's C++ classes
 //
 //    One header to rule them all, 
