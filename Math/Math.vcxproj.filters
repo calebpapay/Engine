@@ -86,7 +86,9 @@
     <None Include="..\Framework\__DO NOT MODIFY__">
       <Filter>_Framework</Filter>
     </None>
-    <None Include="ClassDiagram.cd" />
+    <None Include="ClassDiagram.cd">
+      <Filter>src</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Text Include="include\--- Add include files here ---.txt">
