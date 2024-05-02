@@ -13,7 +13,6 @@
   <ItemGroup>
     <ClInclude Include="..\Framework\Framework.h" />
     <ClInclude Include="..\Framework\ProjectSettings.h" />
-    <ClInclude Include="..\Framework\ThreadFramework.h" />
     <ClInclude Include="include\pugiconfig.hpp" />
     <ClInclude Include="include\pugixml.hpp" />
   </ItemGroup>

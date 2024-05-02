@@ -13,7 +13,6 @@
   <ItemGroup>
     <ClInclude Include="..\Framework\Framework.h" />
     <ClInclude Include="..\Framework\ProjectSettings.h" />
-    <ClInclude Include="..\Framework\ThreadFramework.h" />
     <ClInclude Include="include\DLink.h" />
     <ClInclude Include="include\DLinkIterator.h" />
     <ClInclude Include="include\DLinkMan.h" />

@@ -78,9 +78,6 @@
     <ClInclude Include="include\QuatApp.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="..\Framework\ThreadFramework.h">
-      <Filter>_Framework</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\Framework\__DO NOT MODIFY__">

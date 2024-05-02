@@ -74,6 +74,10 @@ using namespace Azul;
 
 		// OK at this point, we have a heap create, so let's allocate from it.
 
+
+
+
+
 		Dog *p0 = new(heap_A, Mem::Align::Byte_4, __FILE__, __LINE__) Dog();
 		Dog *p1 = new(heap_A, Mem::Align::Byte_4, __FILE__, __LINE__) Dog();
 		Dog *p2 = new(heap_A, Mem::Align::Byte_4, __FILE__, __LINE__) Dog();

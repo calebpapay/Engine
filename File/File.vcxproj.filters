@@ -18,9 +18,6 @@
     <ClInclude Include="..\Framework\ProjectSettings.h">
       <Filter>_Framework</Filter>
     </ClInclude>
-    <ClInclude Include="..\Framework\ThreadFramework.h">
-      <Filter>_Framework</Filter>
-    </ClInclude>
     <ClInclude Include="include\File.h">
       <Filter>include</Filter>
     </ClInclude>

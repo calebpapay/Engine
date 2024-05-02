@@ -29,9 +29,6 @@
     <ClInclude Include="..\Framework\ProjectSettings.h">
       <Filter>_Framework</Filter>
     </ClInclude>
-    <ClInclude Include="..\Framework\ThreadFramework.h">
-      <Filter>_Framework</Filter>
-    </ClInclude>
     <ClInclude Include="include\AnimTime.h">
       <Filter>include</Filter>
     </ClInclude>

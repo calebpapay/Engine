@@ -125,7 +125,6 @@
     </PreBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\Framework\Framework.h" />
     <ClInclude Include="..\JSON\json.hpp" />
     <ClInclude Include="..\Proto\google\protobuf\any.h" />
     <ClInclude Include="..\Proto\google\protobuf\arena.h" />

@@ -156,9 +156,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Framework\Framework.h">
-      <Filter>_Framework</Filter>
-    </ClInclude>
     <ClInclude Include="..\Proto\google\protobuf\any.h">
       <Filter>_Proto\include\google\protobuf</Filter>
     </ClInclude>
